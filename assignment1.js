@@ -1,3 +1,4 @@
+//cs305 week1 day1 assignment solutions
 // --------------Question 1----------------
 function computeSeleCommission(salary, sales) {
     let percent = 0;
